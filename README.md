@@ -1,4 +1,4 @@
-# vesse-schedule
+# vessel-schedule
 Satu tampilan untuk semua! Proyek ini menggabungkan data jadwal kapal dari empat terminal utama di Pelabuhan Tanjung Priok, Jakarta—dengan tampilan interaktif, responsif, dan ekspor Excel. Dibuat untuk efisiensi informasi dan kemudahan distribusi.
 
 📦 Terminal yang Didukung
