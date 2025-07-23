@@ -11,7 +11,7 @@ Satu tampilan untuk semua! Proyek ini menggabungkan data jadwal kapal dari empat
 🚢 TPK Koja (https://www.tpkkoja.co.id)
 
 ⚙️ Fitur Utama
-🔄 Scraping otomatis dari keempat situs resmi
+🔄 Get data otomatis dari keempat situs resmi
 
 🗂️ Mapping field per terminal untuk konsistensi data
 
